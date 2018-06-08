@@ -2,7 +2,7 @@
 The ThinkPHP5 Auth Package
 
 ## 安装
-> composer require denept/think-auth
+> composer require denept/auth
 
 ## 配置
 ### 公共配置

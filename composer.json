@@ -1,5 +1,5 @@
 {
-    "name": "denept/think-auth",
+    "name": "denept/auth",
     "description": "auth package for thinkphp5",
     "homepage": "https://github.com/denept/auth",
     "license": "Apache-2.0",
